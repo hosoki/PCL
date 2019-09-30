@@ -10,11 +10,19 @@ Detect symmetry plane of the face with cleft lip.
 <!-- ## VS.  -->
 
 ## Requirement
-Point Cloud Library 1.9.1
-Boost 1.70
-Eigen
-FLANN
-Qt 5.12
+- Windows10 Pro
+- MSVC 2017
+- CMake 3.13.4
+
+## Libraries
+- Point Cloud Library 1.9.1
+- Boost 1.68
+- Eigen 3.35
+- FLANN 1.9.1
+- QHull 2015.2
+- OpenCV 4.1.0
+- Qt 5.12
+- [Installing reference](http://unanancyowen.com/pcl191/)
 
 ## Usage
 
